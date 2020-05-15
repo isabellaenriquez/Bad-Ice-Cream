@@ -38,7 +38,7 @@ This game was inspired by and based on Nitrome's very own *[Bad Ice-Cream](http:
 ![Bad-Ice-Cream menu](https://github.com/isabellaenriquez/Bad-Ice-Cream/blob/master/images/menu.JPG)
 The game starts off as many games do, at the menu screen. The player can choose whether to play right away, or go through the instructions first.
 
-![Instructions](https://github.com/isabellaenriquez/Bad-Ice-Cream/blob/master/images/instruction1.JPG){:width="50%"} ![Instructions](https://github.com/isabellaenriquez/Bad-Ice-Cream/blob/master/images/instruction2.JPG){:width="50%"}
+<img src="https://github.com/isabellaenriquez/Bad-Ice-Cream/blob/master/images/instruction1.JPG" width="50%"> <img src="https://github.com/isabellaenriquez/Bad-Ice-Cream/blob/master/images/instruction2.JPG" width="50%">
 The instructions not only teach you how to play, but are interactive! The player is able to try out controlling Ice Cream before the actual game starts, so the player isn't just thrown into the game unprepared.
 
 ![Level 1](https://github.com/isabellaenriquez/Bad-Ice-Cream/blob/master/images/level1.JPG){:width="50%"} ![Level 4](https://github.com/isabellaenriquez/Bad-Ice-Cream/blob/master/images/level4.JPG){:width="50%"}
