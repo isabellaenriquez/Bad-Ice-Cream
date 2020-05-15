@@ -3,10 +3,10 @@ This is our Grade 12 Computer Science final project, a game called *Bad Ice-Crea
 
 ---
 
-## Introduction
+## About
 *Bad Ice-Cream* (and its sequel) was a game developer Isabella Enriquez enjoyed much as a child. Partnered with developer Samantha Hawco, they were given a final project for their Grade 12 Computer Science class (ICS4U), which essentially was to make whatever they wanted using the Java programming language as well as the skills learnt in and out of class. After sifting through several ideas, they decided to recreate *Bad Ice-Cream*, albeit a slightly simpler version as remaking the game exactly was not realistic in the time constraints. 
 
-Isabella and Samantha chose to utilize JavaFX to create the graphics and animation for this game, which was a risky move, as they had no knowledge of JavaFX. Their class hadn't covered JavaFX, so they took on the task of learning JavaFX themselves in order to make their *Bad Ice-Cream* a reality. Though it was a lot of blood, sweat, and tears (mostly tears), it was all worth it in the end.
+Isabella and Samantha chose to utilize JavaFX to create the graphics and animation for this game, which was a risky move, as they had no knowledge of JavaFX. Their class hadn't covered JavaFX, so they took on the task of learning JavaFX themselves in order to make their *Bad Ice Cream* (yes, without the dash) a reality. Though it was a lot of blood, sweat, and tears (mostly tears), it was all worth it in the end.
 
 ---
 
@@ -22,8 +22,17 @@ Isabella and Samantha chose to utilize JavaFX to create the graphics and animati
 
 ---
 
+## Pre-requisites
+- Recommended IDE: [Netbeans IDE 8.2](https://netbeans.org/downloads/8.2/rc/)
+- Latest version of Java and JavaFX
+### Fonts (optional; optimal look)
+- [AR Carter](https://fontzone.net/font-details/ar-carter)
+- [Chiller](https://fontzone.net/font-details/chiller)
+
+---
+
 ## Inspiration
-This game was inspired by and based on Nitrome's very own *[Bad Ice-Cream](http://www.nitrome.com/games/badicecream/#.Xr8UQGhKhhE)*.
+This game was inspired by and based on Nitrome's very own *[Bad Ice-Cream](http://www.nitrome.com/games/badicecream/#.Xr8UQGhKhhE)*. 
 
 ---
 
@@ -40,10 +49,10 @@ This is Ice Cream, our main character, who the player controls. With the power o
 
 <p>
 And then there's the antagonists.
-- Spoonie: The weakest of the gang, he's a bit ditzy and just walks back and forth. If you do walk in his path, however, he will destroy you.
-- Bowler: He has anger issues. He stomps around until he hits a corner and switches directions. Despite his cool purple exterior, you do not want to mess with him.
-- Spooky: The vengeful ghost of an Ice Cream that was wronged. He will chase you. BEWARE.
-</p>
+<ul>Spoonie: The weakest of the gang, he's a bit ditzy and just walks back and forth. If you do walk in his path, however, he will destroy you.</ul>
+<ul>Bowler: He has anger issues. He stomps around until he hits a corner and switches directions. Despite his cool purple exterior, you do not want to mess with him.</ul>
+<ul>Spooky: The vengeful ghost of an Ice Cream that was wronged. He will chase you. BEWARE.
+</ul>
 
 ---
 
