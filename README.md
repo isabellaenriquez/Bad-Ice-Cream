@@ -29,14 +29,14 @@ This game was inspired by and based on Nitrome's very own *[Bad Ice-Cream](http:
 
 ## Meet Our Characters
 ### The Good Guy
-<img src="https://github.com/isabellaenriquez/Bad-Ice-Cream/blob/master/images/protagonist.JPG" width="20px">
+<img src="https://github.com/isabellaenriquez/Bad-Ice-Cream/blob/master/images/protagonist.JPG" width="80px">
 
 <p>
 This is Ice Cream, our main character, who the player controls. With the power of creating and destroying ice blocks, it is up to Ice Cream to collect all the fruit and defeat the bad guys!
 </p>
 
 ### The Bad Guys
-<img src="https://github.com/isabellaenriquez/Bad-Ice-Cream/blob/master/images/enemies.JPG" height="20px">
+<img src="https://github.com/isabellaenriquez/Bad-Ice-Cream/blob/master/images/enemies.JPG" height="80px">
 
 <p>
 And then there's the antagonists.
