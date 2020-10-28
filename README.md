@@ -1,26 +1,18 @@
 # Bad Ice-Cream
 This is our Grade 12 Computer Science final project, a game called *Bad Ice-Cream*. It is a simplified recreation of the titular game by Nitrome.
 
----
-
 ## About
 *Bad Ice-Cream* (and its sequel) was a game developer Isabella Enriquez enjoyed much as a child. Partnered with developer Samantha Hawco, they were given a final project for their Grade 12 Computer Science class (ICS4U), which essentially was to make whatever they wanted using the Java programming language as well as the skills learnt in and out of class. After sifting through several ideas, they decided to recreate *Bad Ice-Cream*, albeit a slightly simpler version as remaking the game exactly was not realistic in the time constraints. 
 
 Isabella and Samantha chose to utilize JavaFX to create the graphics and animation for this game, which was a risky move, as they had no knowledge of JavaFX. Their class hadn't covered JavaFX, so they took on the task of learning JavaFX themselves in order to make their *Bad Ice Cream* (yes, without the dash) a reality. Though it was a lot of blood, sweat, and tears (mostly tears), it was all worth it in the end.
 
----
-
 ## Team
 - [Isabella Enriquez](https://github.com/isabellaenriquez)
 - [Samantha Hawco](https://github.com/18srh5)
 
----
-
 ## Technologies
 - Java SE 11
 - JavaFX 11
-
----
 
 ## Pre-requisites
 - Recommended IDE: [Netbeans IDE 8.2](https://netbeans.org/downloads/8.2/rc/)
@@ -29,12 +21,8 @@ Isabella and Samantha chose to utilize JavaFX to create the graphics and animati
 - [AR Carter](https://fontzone.net/font-details/ar-carter)
 - [Chiller](https://fontzone.net/font-details/chiller)
 
----
-
 ## Inspiration
 This game was inspired by and based on Nitrome's very own *[Bad Ice-Cream](http://www.nitrome.com/games/badicecream/#.Xr8UQGhKhhE)*. 
-
----
 
 ## Meet Our Characters
 ### The Good Guy
@@ -53,8 +41,6 @@ And then there's the antagonists.
 <ul>Bowler: He has anger issues. He stomps around until he hits a corner and switches directions. Despite his cool purple exterior, you do not want to mess with him.</ul>
 <ul>Spooky: The vengeful ghost of an Ice Cream that was wronged. He will chase you. BEWARE.
 </ul>
-
----
 
 ## Gameplay
 ![Bad-Ice-Cream menu](https://github.com/isabellaenriquez/Bad-Ice-Cream/blob/master/images/menu.JPG)
